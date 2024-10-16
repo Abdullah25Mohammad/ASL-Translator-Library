@@ -1,0 +1,9 @@
+README.md
+setup.py
+ASLTranslator/__init__.py
+ASLTranslator/translator.py
+ASLTranslator.egg-info/PKG-INFO
+ASLTranslator.egg-info/SOURCES.txt
+ASLTranslator.egg-info/dependency_links.txt
+ASLTranslator.egg-info/requires.txt
+ASLTranslator.egg-info/top_level.txt
